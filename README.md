@@ -8,6 +8,15 @@ For more information, as well as an immediately useable, binary version of the A
 <h1>Ayardo Properties</h1>
 <table class="table table-mycoin">
 <tbody>
+  <tr>
+<td><strong>Name</strong></td>
+<td>Ayardo</td>
+</tr>
+<tr>
+<td><strong>Ticker</strong></td>
+<td>AYDO</td>
+</tr>
+  
 <tr>
 <td><strong>Algorithm</strong></td>
 <td>X11</td>
@@ -16,14 +25,44 @@ For more information, as well as an immediately useable, binary version of the A
 <td><strong>Block type</strong></td>
 <td>Proof-of-Work</td>
 </tr>
+
 <tr>
-<td><strong>Name</strong></td>
-<td>Ayardo</td>
+<td><strong>Target spacing	</strong></td>
+<td>2 mins</td>
 </tr>
+
 <tr>
-<td><strong>Ticker</strong></td>
-<td>AYDO</td>
+<td><strong>Target timespan</strong></td>
+<td>10 mins</td>
 </tr>
+
+<tr>
+<td><strong>Confirmations</strong></td>
+<td>6 blocks</td>
+</tr>
+
+<tr>
+<td><strong>Superblock reward</strong></td>
+<td>10%</td>
+</tr>
+
+<tr>
+<td><strong>Masternode reward</strong></td>
+<td>50%</td>
+</tr>
+
+<tr>
+<td><strong>Masternode amount</strong></td>
+<td>1000 coins</td>
+</tr>
+
+<tr>
+<td><strong>Masternode confirmations</strong></td>
+<td>15 blocks</td>
+</tr>
+
+
+
 <tr>
 <td><strong>RPC port</strong></td>
 <td>27771</td>
