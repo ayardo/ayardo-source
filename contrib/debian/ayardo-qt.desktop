@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ayardo Core
+Comment=Ayardo P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Ayardo peer-to-peer Netzwerk
+Comment[fr]=Ayardo, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Ayardo, eşten eşe kriptografik sanal para birimi
+Exec=ayardo-qt %u
+Terminal=false
+Type=Application
+Icon=ayardo128
+MimeType=x-scheme-handler/ayardo;
+Categories=Office;Finance;

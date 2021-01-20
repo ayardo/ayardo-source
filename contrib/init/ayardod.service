@@ -1,0 +1,22 @@
+[Unit]
+Description=Ayardo's distributed currency daemon
+After=network.target
+
+[Service]
+User=ayardocore
+Group=ayardocore
+
+Type=forking
+PIDFile=/var/lib/ayardod/ayardod.pid
+ExecStart=/usr/bin/ayardod -daemon -pid=/var/lib/ayardod/ayardod.pid \
+-conf=/etc/ayardocore/ayardo.conf -datadir=/var/lib/ayardod -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

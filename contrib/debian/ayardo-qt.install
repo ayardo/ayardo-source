@@ -1,0 +1,6 @@
+usr/local/bin/ayardo-qt usr/bin
+share/pixmaps/ayardo32.xpm usr/share/pixmaps
+share/pixmaps/ayardo16.xpm usr/share/pixmaps
+share/pixmaps/ayardo128.png usr/share/pixmaps
+debian/ayardo-qt.desktop usr/share/applications
+debian/ayardo-qt.protocol usr/share/kde4/services/

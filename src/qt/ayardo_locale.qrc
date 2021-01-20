@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/ayardo_ar.qm</file>
+        <file alias="bg">locale/ayardo_bg.qm</file>
+        <file alias="de">locale/ayardo_de.qm</file>
+        <file alias="en">locale/ayardo_en.qm</file>
+        <file alias="es">locale/ayardo_es.qm</file>
+        <file alias="fi">locale/ayardo_fi.qm</file>
+        <file alias="fr">locale/ayardo_fr.qm</file>
+        <file alias="it">locale/ayardo_it.qm</file>
+        <file alias="ja">locale/ayardo_ja.qm</file>
+        <file alias="ko">locale/ayardo_ko.qm</file>
+        <file alias="nl">locale/ayardo_nl.qm</file>
+        <file alias="pl">locale/ayardo_pl.qm</file>
+        <file alias="pt">locale/ayardo_pt.qm</file>
+        <file alias="ru">locale/ayardo_ru.qm</file>
+        <file alias="sk">locale/ayardo_sk.qm</file>
+        <file alias="sv">locale/ayardo_sv.qm</file>
+        <file alias="th">locale/ayardo_th.qm</file>
+        <file alias="tr">locale/ayardo_tr.qm</file>
+        <file alias="vi">locale/ayardo_vi.qm</file>
+        <file alias="zh_CN">locale/ayardo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ayardo_zh_TW.qm</file>
+    </qresource>
+</RCC>
